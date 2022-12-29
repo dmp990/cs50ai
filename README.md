@@ -5,7 +5,7 @@ My solutions to projects of [Harvard's CS50AI 2020](https://cs50.harvard.edu/ai/
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Week 0: Search](#week-0:-search)
+- [Week 0: Search](#week-0-search)
 
 #### Introduction
 
