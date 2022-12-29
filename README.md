@@ -15,5 +15,6 @@ My solutions to projects of [Harvard's CS50AI 2020](https://cs50.harvard.edu/ai/
 
 Search problems involve an agent that is given an initial state and a goal state, and it returns a solution of how to get from the former to the latter.
 
-- [Project 0](project0)
 
+- [Project 0](project0)
+   1. [Degrees](project0/degrees)
