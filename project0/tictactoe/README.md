@@ -1,6 +1,6 @@
 # TicTacToe
 
-Using Minimax, implement an AI to play Tic-Tac-Toe optimally.
+Using Minimax, implemented an AI to play Tic-Tac-Toe optimally.
 
 ![Screenshot of PyGame Window](Screenshot.png)
 
