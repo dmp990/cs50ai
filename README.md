@@ -19,5 +19,10 @@ Search problems involve an agent that is given an initial state and a goal state
 - [Project 0](project0)
    1. [Degrees](project0/degrees/)
    2. [TicTacToe](project0/tictactoe/)
+
+#### [Week 1: Knowledge](https://cs50.harvard.edu/ai/2020/weeks/1/)
+
+Humans reason based on existing knowledge and draw conclusions. The concept of representing knowledge and drawing conclusions from it is also used in AI.
+
 - [Project 1](project1)
    1. [Knights](project1/knights/)
