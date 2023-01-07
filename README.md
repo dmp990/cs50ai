@@ -17,5 +17,7 @@ Search problems involve an agent that is given an initial state and a goal state
 
 
 - [Project 0](project0)
-   1. [Degrees](project0/degrees)
+   1. [Degrees](project0/degrees/)
    2. [TicTacToe](project0/tictactoe/)
+- [Project 1](project1)
+   1. [Knights](project1/knights/)
