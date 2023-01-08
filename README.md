@@ -15,14 +15,14 @@ My solutions to projects of [Harvard's CS50AI 2020](https://cs50.harvard.edu/ai/
 
 Search problems involve an agent that is given an initial state and a goal state, and it returns a solution of how to get from the former to the latter.
 
-
 - [Project 0](project0)
-   1. [Degrees](project0/degrees/)
-   2. [TicTacToe](project0/tictactoe/)
+  1.  [Degrees](project0/degrees/)
+  2.  [TicTacToe](project0/tictactoe/)
 
 #### [Week 1: Knowledge](https://cs50.harvard.edu/ai/2020/weeks/1/)
 
 Humans reason based on existing knowledge and draw conclusions. The concept of representing knowledge and drawing conclusions from it is also used in AI.
 
 - [Project 1](project1)
-   1. [Knights](project1/knights/)
+  1.  [Knights](project1/knights/)
+  2.  [Minesweeper](project1/minesweeper/)
