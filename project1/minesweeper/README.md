@@ -2,6 +2,8 @@
 
 An AI that plays the famous game of Minesweeper
 
+![Demo gif](https://github.com/dmp990/cs50ai/blob/main/project1/minesweeper/assets/demo.gif)
+
 ## Background
 
 Using propositional logic, the AI will consider its knowledge base and draw inferences based on that knowledge. For a detailed understanding of what information the AI will have access to and how it is represented in code, visit [this](https://cs50.harvard.edu/ai/2020/projects/1/minesweeper/#background).
